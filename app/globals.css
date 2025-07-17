@@ -35,10 +35,10 @@ body {
     --radius: 0.5rem;
   }
   .dark {
-    --background: 0 0% 3.9%;
-    --foreground: 0 0% 98%;
-    --card: 0 0% 3.9%;
-    --card-foreground: 0 0% 98%;
+    --background: 350 50% 10%;
+    --foreground: 0 80% 95%;
+    --card: 350 50% 14%;
+    --card-foreground: 0 80% 95%;
     --popover: 0 0% 3.9%;
     --popover-foreground: 0 0% 98%;
     --primary: 0 0% 98%;
