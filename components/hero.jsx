@@ -55,8 +55,6 @@ const HeroSection = () => {
               alt="Dashboard Preview"
               className="rounded-lg shadow-2xl border mx-auto"
               priority
-              placeholder="blur" // Optional: improves perceived speed
-              blurDataURL="/banner1-blur.jpg" // Low-res placeholder image
             />
           </div>
         </div>

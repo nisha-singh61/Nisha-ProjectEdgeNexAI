@@ -19,11 +19,13 @@ import {
 import { features } from "@/data/features";
 import { faqs } from "@/data/faqs";
 import { howItWorks } from "@/data/howItWorks";
+import ShootingStars from "@/components/shootingStars";
 
 export default function LandingPage() {
   return (
     <>
       <div className="grid-background"></div>
+      <ShootingStars/>
 
       {/* Hero Section */}
       <HeroSection />
