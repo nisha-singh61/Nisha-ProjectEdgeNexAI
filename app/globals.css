@@ -78,42 +78,6 @@ body {
   .gradient-title {
     @apply gradient font-extrabold tracking-tighter text-transparent bg-clip-text pb-2 pr-2;
 
-    /*  */
-    /* @layer utilities {
-  .shooting-stars-bg {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-    z-index: -10;
-    pointer-events: none;
-    background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
-  }
-
-  .star {
-    position: absolute;
-    top: -10px;
-    width: 2px;
-    height: 80px;
-    background: linear-gradient(-45deg, white, transparent);
-    opacity: 0.5;
-    animation: shoot 3s linear infinite;
-  }
-
-  @keyframes shoot {
-    0% {
-      transform: translateX(0) translateY(0) rotate(45deg);
-      opacity: 1;
-    }
-    100% {
-      transform: translateX(-1000px) translateY(1000px) rotate(45deg);
-      opacity: 0;
-    }
-  }
-} */
-
   }
 }
 
