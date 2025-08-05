@@ -198,7 +198,9 @@ body {
     rgba(10, 27, 34, 0.6),
     rgba(31, 73, 92, 0.6),
     rgba(40, 17, 82, 0.6),
-    rgba(34, 22, 33, 0.6)
+    rgba(34, 22, 33, 0.6),
+    rgba(103, 7, 95, 0.6),
+    rgba(101, 26, 13, 0.6)
   );
 
 
@@ -212,7 +214,7 @@ body {
     0 0,
     0 0;
 
-  animation: nightSky 20s ease infinite;
+  animation: nightSky 8s ease infinite;
 }
 
 @keyframes nightSky {
