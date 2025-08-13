@@ -1,4 +1,4 @@
-# Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI Tutorial 
+# Full Stack AI Career Assistant with Next JS, Neon DB,Clerk, Tailwind, Prisma ORM, Inngest, Shadcn UI, PostgreSQL, 
 
 # Should create a .env file with the variables
 
