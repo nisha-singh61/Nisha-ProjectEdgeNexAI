@@ -35,7 +35,7 @@ const HeroSection = () => {
           <h1 className="text-4xl font-bold md:text-5xl lg:text-6xl xl:text-7xl gradient-title animate-gradient">
             AI-Powered Career Guidance
           </h1>
-          <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl">
+          <p className="mx-auto max-w-[600px] text-gray-900 md:text-xl">
             Take your career to the next level with personalized coaching, interview preparation, and smart AI tools designed to help you land your dream job.
           </p>
         </div>

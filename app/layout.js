@@ -28,7 +28,7 @@ export default function RootLayout({ children }) {
         <body className={`${inter.className}min-h-screen overflow-x-hidden overflow-y-auto`}>
           <ThemeProvider
             attribute="class"
-            defaultTheme="dark"
+            defaultTheme="light"
             enableSystem
             disableTransitionOnChange
           >
